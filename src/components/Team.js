@@ -10,7 +10,7 @@ import team5 from "../assets/mellisa.jpg";
 
 const members = [
   { img: team1, name: "Umurerwa Bonnette", role: "Chief Executive Officer" },
-  { img: team2, name: "Ishimwe Ndize Ange", role: "Chief Operations Officer" },
+  { img: team2, name: "Ishimwe N Ange", role: "Chief Operations Officer" },
   { img: team3, name: "Teta Angel Bless", role: "Chief Marketing Officer" },
   { img: team4, name: "Ineza Mugisha Nora", role: "Chief Innovation Officer" },
   { img: team5, name: "Uhirwa Shami Mellissa", role: "Chief Technology Officer" },
