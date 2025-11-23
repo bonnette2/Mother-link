@@ -19,7 +19,7 @@ const members = [
 const Team = () => {
   return (
     <SectionWrapper>
-      <section className="team-section">
+      <section className="team-section"id="team">
         <motion.h2
           className="team-title"
           initial={{ opacity: 0, y: -20 }}

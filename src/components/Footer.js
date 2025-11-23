@@ -3,7 +3,7 @@ import { Facebook, Twitter, Instagram, Mail, HeartHandshake } from "lucide-react
 
 const Footer = () => {
   return (
-    <footer className="compact-footer">
+    <footer className="compact-footer" id="footer">
       <div className="footer-inner">
         <div className="footer-grid">
           {/* Brand + Logo */}

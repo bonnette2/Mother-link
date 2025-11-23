@@ -30,7 +30,7 @@ const Features = () => {
 
   return (
     <SectionWrapper>
-      <section className="features-pro">
+      <section className="features-pro" id="features">
         <div className="features-pro-container">
 
           <div className="features-pro-header">
