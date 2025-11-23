@@ -5,7 +5,7 @@ import { motion } from "framer-motion";
 const CTA = () => {
   return (
     <SectionWrapper>
-      <section className="cta-section">
+      <section className="cta-section" id="cta">
         <motion.div
           className="cta-content"
           initial={{ opacity: 0, y: 30 }}

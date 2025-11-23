@@ -6,7 +6,7 @@ import child from "../assets/child.png";
 const Welcome = () => {
   return (
     <SectionWrapper>
-      <section className="welcome-compact">
+      <section className="welcome-compact" id="about">
         <div className="welcome-grid">
 
           {/* Image + Blue Rectangle */}

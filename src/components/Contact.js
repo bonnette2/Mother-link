@@ -11,7 +11,7 @@ const Contact = () => {
   };
 
   return (
-    <section className="contact-section-compact">
+    <section className="contact-section-compact" id="contact">
       <div className="contact-header-compact">
         <h2 className="contact-title-compact">Get in touch</h2>
         <p className="contact-subtitle-compact">

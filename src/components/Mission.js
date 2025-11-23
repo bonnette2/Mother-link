@@ -17,7 +17,7 @@ const Mission = () => {
 
   return (
     <SectionWrapper>
-      <section className="mission-compact">
+      <section className="mission-compact" id="about">
         <div className="mission-compact-grid">
 
           {/* Text – Brand Blue + Black */}

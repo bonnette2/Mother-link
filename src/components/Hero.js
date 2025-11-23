@@ -3,7 +3,7 @@ import mask from "../assets/mask.png";
 
 const Hero = () => {
   return (
-    <section className="hero-mini">
+    <section className="hero-mini" id="home">
       <div className="hero-mini-grid">
         
         {/* Text Content */}
